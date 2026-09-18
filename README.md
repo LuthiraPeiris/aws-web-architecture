@@ -3,7 +3,7 @@
 A production-style web application architecture built on AWS using a multi-tier network design, private compute, managed PostgreSQL, load balancing, IAM, Secrets Manager, CloudWatch, and Terraform.
 
 ## Architecture
-![Image Alt](https://github.com/LuthiraPeiris/aws-web-architecture/blob/c16d1aa14c47cbea2330d452eb9ed749a33cc556/docs/Architecture.png)
+![Image Alt](https://github.com/LuthiraPeiris/aws-web-architecture/blob/c16d1aa14c47cbea2330d452eb9ed749a33cc556/docs/architecture.png)
 
 ## Architecture Overview
 
