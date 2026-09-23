@@ -389,6 +389,12 @@ Potential improvements include:
 * Blue/green deployment
 * Centralized logging
 
+## 📚 Medium Article
+https://medium.com/@luthirapeiris1/building-a-production-style-aws-web-architecture-from-scratch-12abcaba48ff?sharedUserId=luthirapeiris1
+
+## 🎬 Demonstration
+https://youtu.be/3Gw8_IU9s64
+
 ## Author
 
 **Luthira Peiris**
